@@ -55,21 +55,37 @@ I enjoy building practical systems and production software across research and i
         <p class="p-no-margin-bottom"><strong>Spandana: Reconciling Strict SLOs with Low Cost under Fine-Grained Load Fluctuations</strong><br>
         D. Dehigama, S. Jesalpura, Z. Xu, M. Nemeth, M. Kogias, and B. Grot.<br>
         <em>ACM Symposium on Cloud Computing (SoCC), 2026 (Under Review)</em></p>
+        <div class="button-group">
+            <a href="#" class="btn btn--primary btn-disabled" aria-disabled="true">PDF (Add URL)</a>
+            <button type="button" class="btn btn--primary bibtex-copy" data-bibtex-target="bibtex-spandana-home">Copy BibTeX</button>
+        </div>
     </div>
     <div class="section-item">
         <p class="p-no-margin-bottom"><strong>Harmonizing Diverse Compute Resources for Efficiency</strong><br>
         D. Dehigama, S. Jesalpura, M. Kogias, and B. Grot.<br>
         <em>HotInfra Workshop at SOSP, 2024</em></p>
+        <div class="button-group">
+            <a href="#" class="btn btn--primary btn-disabled" aria-disabled="true">PDF (Add URL)</a>
+            <button type="button" class="btn btn--primary bibtex-copy" data-bibtex-target="bibtex-hotinfra-home">Copy BibTeX</button>
+        </div>
     </div>
     <div class="section-item">
         <p class="p-no-margin-bottom"><strong>Composing Microservices and Serverless for Load Resilience</strong><br>
         D. Dehigama, S. Jesalpura, A. Katsarakis, M. Kogias, R. Kumar, and B. Grot.<br>
         <em>SESAME Workshop at EuroSys, 2024</em></p>
+        <div class="button-group">
+            <a href="#" class="btn btn--primary btn-disabled" aria-disabled="true">PDF (Add URL)</a>
+            <button type="button" class="btn btn--primary bibtex-copy" data-bibtex-target="bibtex-sesame-home">Copy BibTeX</button>
+        </div>
     </div>
     <div class="section-item">
         <p class="p-no-margin-bottom"><strong>Incorporating Compiler Optimization in Software Estimation for FPGA-based Embedded Processors</strong><br>
         D. Wijesundera, T. Perera, D. Dehigama, and T. Srikanthan.<br>
         <em>ICICT, 2021</em></p>
+        <div class="button-group">
+            <a href="#" class="btn btn--primary btn-disabled" aria-disabled="true">PDF (Add URL)</a>
+            <button type="button" class="btn btn--primary bibtex-copy" data-bibtex-target="bibtex-icict-home">Copy BibTeX</button>
+        </div>
     </div>
 </div>
 
@@ -122,6 +138,72 @@ I enjoy building practical systems and production software across research and i
   </div>
 </div>
 
+<pre id="bibtex-spandana-home" hidden>@inproceedings{dehigama2026spandana,
+  title     = {Spandana: Reconciling Strict SLOs with Low Cost under Fine-Grained Load Fluctuations},
+  author    = {Dehigama, Dilina and Jesalpura, Smit and Xu, Zhihao and Nemeth, Marcell and Kogias, Marios and Grot, Boris},
+  booktitle = {Proceedings of the ACM Symposium on Cloud Computing (SoCC)},
+  year      = {2026},
+  note      = {Under review}
+}</pre>
+
+<pre id="bibtex-hotinfra-home" hidden>@inproceedings{dehigama2024harmonizing,
+  title     = {Harmonizing Diverse Compute Resources for Efficiency},
+  author    = {Dehigama, Dilina and Jesalpura, Smit and Kogias, Marios and Grot, Boris},
+  booktitle = {2nd Workshop on Hot Topics in System Infrastructure (HotInfra) at SOSP},
+  year      = {2024}
+}</pre>
+
+<pre id="bibtex-sesame-home" hidden>@inproceedings{dehigama2024composing,
+  title     = {Composing Microservices and Serverless for Load Resilience},
+  author    = {Dehigama, Dilina and Jesalpura, Smit and Katsarakis, Alexandros and Kogias, Marios and Kumar, Ravi and Grot, Boris},
+  booktitle = {2nd Workshop on SErverless Systems, Applications and MEthodologies (SESAME) at EuroSys},
+  year      = {2024}
+}</pre>
+
+<pre id="bibtex-icict-home" hidden>@inproceedings{wijesundera2021compiler,
+  title     = {Incorporating Compiler Optimization in Software Estimation for FPGA-based Embedded Processors},
+  author    = {Wijesundera, D. and Perera, T. and Dehigama, D. and Srikanthan, T.},
+  booktitle = {2021 4th International Conference on Information and Computer Technologies (ICICT)},
+  pages     = {137--141},
+  year      = {2021}
+}</pre>
+
+<script>
+  (function () {
+    function fallbackCopy(text) {
+      var el = document.createElement("textarea");
+      el.value = text;
+      el.setAttribute("readonly", "");
+      el.style.position = "absolute";
+      el.style.left = "-9999px";
+      document.body.appendChild(el);
+      el.select();
+      document.execCommand("copy");
+      document.body.removeChild(el);
+    }
+
+    function copyText(text) {
+      if (navigator.clipboard && window.isSecureContext) {
+        return navigator.clipboard.writeText(text);
+      }
+      fallbackCopy(text);
+      return Promise.resolve();
+    }
+
+    document.addEventListener("click", function (event) {
+      var btn = event.target.closest(".bibtex-copy");
+      if (!btn) return;
+      var source = document.getElementById(btn.getAttribute("data-bibtex-target"));
+      if (!source) return;
+      copyText(source.textContent.trim()).then(function () {
+        var oldText = btn.textContent;
+        btn.textContent = "Copied!";
+        setTimeout(function () { btn.textContent = oldText; }, 1200);
+      });
+    });
+  })();
+</script>
+
 <style>
 
 .section {
@@ -152,6 +234,12 @@ hr {
 
 .p-no-margin-bottom {
     margin-bottom: 0 !important;
+}
+
+.btn-disabled {
+    opacity: 0.6;
+    pointer-events: none;
+    cursor: not-allowed;
 }
 
 </style>
