@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "Education"
+    url: /#education
+
+  - title: "Publications"
+    url: /#publications
+
+  - title: "Awards"
+    url: /#awards
+
+  - title: "Services"
+    url: /#services
+
+  - title: "CV"
+    url: /assets/files/dilina_cv.pdf

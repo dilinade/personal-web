@@ -1,0 +1,127 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+html {
+    font-size: 16px; // change to whatever
+
+    @include breakpoint($medium) {
+        font-size: 14px; // change to whatever
+    }
+
+    @include breakpoint($large) {
+        font-size: 16px; // change to whatever
+    }
+
+    @include breakpoint($x-large) {
+        font-size: 18px; // change to whatever
+    }
+}
+
+.small-grey {
+    font-size: .85em;
+    color: #7a8288;
+}
+
+.pull-right {
+    float: right;
+}
+
+.mt-2 {
+    margin-top: .25em;
+}
+
+
+.gallery-scroll {
+    display: flex;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+    overflow-x: scroll;
+    height: 300px;
+    padding: .5rem 0;
+}
+
+.gallery-scroll .image-popup {
+    margin: .5rem;
+    scroll-snap-align: center;
+    flex: none;
+}
+
+.gallery-img {
+    height: 100%;
+    border-radius: 4px;
+    transition: all 0.2s ease-in-out;
+}
+
+.gallery-caption {
+    display: inline-block;
+    width: 100%;
+    color: #646769;
+    font-family: Georgia, Times, serif;
+    font-size: .75em !important;
+    margin: .5rem 0 .8rem !important;
+}
+
+.author__avatar img {
+    max-width: 80%;
+    border-radius: 0;
+}
+
+.sidebar {
+    opacity: 1;
+}
+
+.greedy-nav a {
+    color: #000000;
+}
+
+.button-group {
+    display: flex;
+    gap: 1em;
+    margin-top: 0.5em;
+    display: flex; 
+    flex-wrap: wrap; 
+}
+
+.btn {
+    min-width: 9em;
+    border: 1px solid #4e91a5;
+}
+
+.btn:hover {
+    border: 1px solid #235e70;
+}
+
+.video-container {
+  margin-top: 15px;
+  width: 560px;
+  aspect-ratio: 16 / 9;
+}
+
+.video-container iframe {
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.watch-on-youtube-button-wrapper {
+    display: none;
+}
+
+@media (max-width: 768px) {
+    .author__avatar {
+        display: none;
+    }
+    .author__content {
+        padding-left: 0;
+    }
+    .video-container {
+        width: 95%;
+    }
+}
