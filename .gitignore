@@ -5,5 +5,6 @@ _site
 vendor
 Gemfile.lock
 .DS_Store
-dilina_cv.pdf
+/dilina_cv.pdf
+!assets/files/dilina_cv.pdf
 .venv/
