@@ -110,12 +110,6 @@ I enjoy building practical systems and production software across research and i
         </ul>
     </div>
     <div class="section-item">
-        <strong>Part-time Lecturer</strong>
-        <ul>
-            <li>BCS Level 05 Diploma in IT (Web Application Development), LiveCollege Sri Lanka - <em>Oct 2021 to Apr 2022</em></li>
-        </ul>
-    </div>
-    <div class="section-item">
         <strong>Research Intern Supervision</strong>
         <ul>
             <li>School of Informatics, University of Edinburgh - <em>Jan 2022 to Present</em>
@@ -131,8 +125,16 @@ I enjoy building practical systems and production software across research and i
         <strong>Leadership & Volunteering</strong>
         <ul>
             <li>Artifact Evaluator: ISCA '25 and HPCA '24</li>
+            <li>Google Summer of Code Mentor (2020)</li>
+            <li>Google Code-in Mentor (2017, 2018, 2019)</li>
             <li>Vice President, People Management: AIESEC in Sri Lanka (Colombo)</li>
             <li>Vice President: IEEE Student Branch of UCSC</li>
+        </ul>
+    </div>
+    <div class="section-item">
+        <strong>Lecturer</strong>
+        <ul>
+            <li>BCS Level 05 Diploma in IT (Web Application Development), LiveCollege Sri Lanka - <em>Oct 2021 to Apr 2022</em></li>
         </ul>
     </div>
 </div>
