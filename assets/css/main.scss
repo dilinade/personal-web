@@ -135,10 +135,16 @@ html {
 }
 
 .page__content a:not(.btn),
+.page__content a:not(.btn):visited {
+    color: $link-color;
+    text-decoration: none;
+}
+
 .page__content a:not(.btn):hover,
 .page__content a:not(.btn):focus {
     color: $link-color;
-    text-decoration: none;
+    text-decoration: underline;
+    text-underline-offset: 0.12em;
 }
 
 .video-container {
