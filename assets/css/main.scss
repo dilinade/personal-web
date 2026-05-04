@@ -131,7 +131,14 @@ html {
 .accepted-note a:hover,
 .accepted-note a:focus {
     text-decoration: none;
-    color: inherit;
+    color: $link-color;
+}
+
+.page__content a:not(.btn),
+.page__content a:not(.btn):hover,
+.page__content a:not(.btn):focus {
+    color: $link-color;
+    text-decoration: none;
 }
 
 .video-container {
