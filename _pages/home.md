@@ -19,14 +19,15 @@ I enjoy building practical systems and production software across research and i
         <ul>
             <li>University of Edinburgh, Edinburgh, UK</li>
             <li>Research Focus: Cloud computing and hybrid systems combining serverless and VM-based infrastructure</li>
-            <li>Advisor: Prof. Boris Grot</li>
+            <li>Advisor: <a href="https://homepages.inf.ed.ac.uk/bgrot/" target="_blank">Prof. Boris Grot</a></li>
         </ul>
     </div>
     <div class="section-item">
         <strong>BSc (Hons) in Computer Science [First Class, GPA: 3.93/4.00]:</strong> 2017–2021
         <ul>
             <li>University of Colombo School of Computing (UCSC), Colombo, Sri Lanka</li>
-            <li>Best Final Year Research Project in Computer Science (Supervisors: Dr. Chamath Keppitiyagama and Dr. Deshya Wijesundera)</li>
+            <li>Best Final Year Research Project in Computer Science</li>
+            <li>Supervisors: <a href="https://scholar.google.com/citations?user=SFxdJK0AAAAJ&hl=en" target="_blank">Dr. Chamath Keppitiyagama</a> and <a href="https://www.researchgate.net/scientific-contributions/Deshya-Wijesundera-2109327417" target="_blank">Dr. Deshya Wijesundera</a></li>
         </ul>
     </div>
     <div class="section-item">
@@ -43,9 +44,9 @@ I enjoy building practical systems and production software across research and i
 
 <div class="section">
     <div class="section-item">
-        <p class="p-no-margin-bottom"><strong>Spandana: Reconciling Strict SLOs with Low Cost under Fine-Grained Load Fluctuations</strong><br>
+        <p class="p-no-margin-bottom"><strong><span class="new-prefix">(New)</span> Spandana: Reconciling Strict SLOs with Low Cost under Fine-Grained Load Fluctuations</strong><br>
         D. Dehigama, S. Jesalpura, Z. Xu, M. Nemeth, M. Kogias, and B. Grot.<br>
-        <em>Accepted at ACM Symposium on Cloud Computing (SoCC), 2026</em> <span class="badge-new">New</span></p>
+        <span class="accepted-note">Accepted at ACM Symposium on Cloud Computing (SoCC), 2026</span></p>
         <div class="button-group">
             <a href="#" class="btn btn--primary btn-disabled" aria-disabled="true">PDF (Add URL)</a>
             <button type="button" class="btn btn--primary bibtex-copy" data-bibtex-target="bibtex-spandana-home">Copy BibTeX</button>
@@ -54,18 +55,18 @@ I enjoy building practical systems and production software across research and i
     <div class="section-item">
         <p class="p-no-margin-bottom"><strong>Harmonizing Diverse Compute Resources for Efficiency</strong><br>
         D. Dehigama, S. Jesalpura, M. Kogias, and B. Grot.<br>
-        <em>HotInfra Workshop at SOSP, 2024</em></p>
+        <em><a href="https://hotinfra24.github.io/" target="_blank">HotInfra Workshop at SOSP, 2024 (Austin, Texas)</a></em></p>
         <div class="button-group">
-            <a href="#" class="btn btn--primary btn-disabled" aria-disabled="true">PDF (Add URL)</a>
+            <a href="https://www.research.ed.ac.uk/en/publications/harmonizing-diverse-compute-resources-for-efficiency/" target="_blank" class="btn btn--primary">PDF</a>
             <button type="button" class="btn btn--primary bibtex-copy" data-bibtex-target="bibtex-hotinfra-home">Copy BibTeX</button>
         </div>
     </div>
     <div class="section-item">
         <p class="p-no-margin-bottom"><strong>Composing Microservices and Serverless for Load Resilience</strong><br>
         D. Dehigama, S. Jesalpura, A. Katsarakis, M. Kogias, R. Kumar, and B. Grot.<br>
-        <em>SESAME Workshop at EuroSys, 2024</em></p>
+        <em><a href="https://sesame2024.github.io/" target="_blank">SESAME at EuroSys '24 (Athens, Greece)</a></em></p>
         <div class="button-group">
-            <a href="#" class="btn btn--primary btn-disabled" aria-disabled="true">PDF (Add URL)</a>
+            <a href="https://www.research.ed.ac.uk/en/publications/composing-microservices-and-serverless-for-load-resilience/" target="_blank" class="btn btn--primary">PDF</a>
             <button type="button" class="btn btn--primary bibtex-copy" data-bibtex-target="bibtex-sesame-home">Copy BibTeX</button>
         </div>
     </div>
@@ -73,13 +74,13 @@ I enjoy building practical systems and production software across research and i
 
 <hr>
 
-### Grants & Awards {#awards}
+### Selected Awards {#awards}
 
 <div class="section">
     <div class="section-item">
-        <strong>Informatics Graduate School Scholarship - PhD (2022)</strong>
+        <strong>University of Edinburgh Informatics PhD Scholarship (2022)</strong>
         <ul>
-            <li>Full PhD scholarship covering tuition fees and annual living stipend.</li>
+            <li>Approximate total value around £181,000 (tuition support of ~£34,800/year for 3 years, plus multi-year living stipend support).</li>
         </ul>
     </div>
     <div class="section-item">
@@ -106,6 +107,7 @@ I enjoy building practical systems and production software across research and i
         <ul>
             <li>Teaching Assistant, Introduction to Computer Systems (Inf2C), University of Edinburgh - <em>Oct 2023 to Oct 2025</em></li>
             <li>Research Intern Supervision, School of Informatics, University of Edinburgh - <em>Jan 2022 to Present</em></li>
+            <li>Intern format: <em>Name</em> - <em>Project/Task</em> - <em>Outcome/Impact</em></li>
             <li>Part-time Lecturer, BCS Level 05 Diploma in IT (Web Application Development), LiveCollege Sri Lanka - <em>Oct 2021 to Apr 2022</em></li>
         </ul>
     </div>
@@ -115,7 +117,6 @@ I enjoy building practical systems and production software across research and i
             <li>Artifact Evaluator: ISCA '25 and HPCA '24</li>
             <li>Vice President, People Management: AIESEC in Sri Lanka (Colombo)</li>
             <li>Vice President: IEEE Student Branch of UCSC</li>
-            <li>Organizing Committee Member: IEEE Sri Lanka Section Events</li>
         </ul>
   </div>
 </div>
