@@ -17,7 +17,7 @@ classes: wide
     <span class="accepted-note">Accepted at <a href="https://acmsocc.org/2026/" target="_blank">ACM Symposium on Cloud Computing (SoCC), 2026</a></span></p>
     <div class="button-group">
       <a href="#" class="btn btn--primary btn-disabled" aria-disabled="true">Coming soon!</a>
-      <button type="button" class="btn btn--primary bibtex-copy" data-bibtex-target="bibtex-spandana">BibTeX</button>
+      <button type="button" class="btn btn--primary bibtex-copy" data-bibtex-target="bibtex-spandana">Bibtex</button>
     </div>
   </div>
 
@@ -27,7 +27,7 @@ classes: wide
     <em><a href="https://hotinfra24.github.io/" target="_blank">HotInfra Workshop at SOSP, 2024 (Austin, Texas)</a></em></p>
     <div class="button-group">
       <a href="https://www.research.ed.ac.uk/en/publications/harmonizing-diverse-compute-resources-for-efficiency/" target="_blank" class="btn btn--primary">Paper</a>
-      <button type="button" class="btn btn--primary bibtex-copy" data-bibtex-target="bibtex-hotinfra">BibTeX</button>
+      <button type="button" class="btn btn--primary bibtex-copy" data-bibtex-target="bibtex-hotinfra">Bibtex</button>
     </div>
   </div>
 
@@ -37,7 +37,7 @@ classes: wide
     <em><a href="https://sesame2024.github.io/" target="_blank">SESAME at EuroSys '24 (Athens, Greece)</a></em></p>
     <div class="button-group">
       <a href="https://www.research.ed.ac.uk/en/publications/composing-microservices-and-serverless-for-load-resilience/" target="_blank" class="btn btn--primary">Paper</a>
-      <button type="button" class="btn btn--primary bibtex-copy" data-bibtex-target="bibtex-sesame">BibTeX</button>
+      <button type="button" class="btn btn--primary bibtex-copy" data-bibtex-target="bibtex-sesame">Bibtex</button>
     </div>
   </div>
 </div>

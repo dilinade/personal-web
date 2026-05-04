@@ -7,7 +7,7 @@ classes: wide
 
 I am a PhD student in Informatics at the <a href="https://www.ed.ac.uk/informatics" target="_blank">University of Edinburgh</a>, where I work with <a href="https://homepages.inf.ed.ac.uk/bgrot/" target="_blank">Prof. Boris Grot</a> in the <a href="https://easelab.inf.ed.ac.uk/" target="_blank">EASE Lab</a>. My research focuses on cloud computing and computer systems, especially hybrid execution across VMs, containers, and FaaS to improve latency, reduce cost, and keep infrastructure highly utilized.
 
-I am currently exploring cloud deployment strategies for AI agents, with an emphasis on scalable, efficient, and reliable runtime architectures.
+I am currently exploring cloud deployment strategies for AI agents, with a particular focus on CPU-centric execution and performance behavior.
 
 Previously, I worked at the <a href="https://www.ntu.edu.sg/hesl" target="_blank">High Performance Embedded Systems Lab (HESL)</a> at <a href="https://www.ntu.edu.sg/" target="_blank">Nanyang Technological University</a>, where I worked with <a href="https://www.researchgate.net/scientific-contributions/Deshya-Wijesundera-2109327417" target="_blank">Dr. Deshya Wijesundera</a> and <a href="https://www.ntu.edu.sg/computing/archives/about-us/past-chairs/prof-thambipillai-srikanthan" target="_blank">Prof. Thambipillai Srikanthan</a> to develop a memory profiling tool for hardware-software co-design.
 
@@ -51,7 +51,7 @@ I enjoy building practical systems and production software across research and i
         <span class="accepted-note">Accepted at <a href="https://acmsocc.org/2026/" target="_blank">ACM Symposium on Cloud Computing (SoCC), 2026</a></span></p>
         <div class="button-group">
             <a href="#" class="btn btn--primary btn-disabled" aria-disabled="true">PDF (Add URL)</a>
-            <button type="button" class="btn btn--primary bibtex-copy" data-bibtex-target="bibtex-spandana-home">Copy BibTeX</button>
+            <button type="button" class="btn btn--primary bibtex-copy" data-bibtex-target="bibtex-spandana-home">Bibtex</button>
         </div>
     </div>
     <div class="section-item">
@@ -60,7 +60,7 @@ I enjoy building practical systems and production software across research and i
         <em><a href="https://hotinfra24.github.io/" target="_blank">HotInfra Workshop at SOSP, 2024 (Austin, Texas)</a></em></p>
         <div class="button-group">
             <a href="https://www.research.ed.ac.uk/en/publications/harmonizing-diverse-compute-resources-for-efficiency/" target="_blank" class="btn btn--primary">PDF</a>
-            <button type="button" class="btn btn--primary bibtex-copy" data-bibtex-target="bibtex-hotinfra-home">Copy BibTeX</button>
+            <button type="button" class="btn btn--primary bibtex-copy" data-bibtex-target="bibtex-hotinfra-home">Bibtex</button>
         </div>
     </div>
     <div class="section-item">
@@ -69,7 +69,7 @@ I enjoy building practical systems and production software across research and i
         <em><a href="https://sesame2024.github.io/" target="_blank">SESAME at EuroSys '24 (Athens, Greece)</a></em></p>
         <div class="button-group">
             <a href="https://www.research.ed.ac.uk/en/publications/composing-microservices-and-serverless-for-load-resilience/" target="_blank" class="btn btn--primary">PDF</a>
-            <button type="button" class="btn btn--primary bibtex-copy" data-bibtex-target="bibtex-sesame-home">Copy BibTeX</button>
+            <button type="button" class="btn btn--primary bibtex-copy" data-bibtex-target="bibtex-sesame-home">Bibtex</button>
         </div>
     </div>
 </div>
