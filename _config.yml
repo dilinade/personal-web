@@ -24,9 +24,9 @@ name: Dilina Dehigama
 email: nisalya@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Dilina Dehigama - PhD Student in Informatics, University of Edinburgh, UK
-domain: dilinade.github.io
-baseurl: "/personal-web" # the subpath of your site, e.g. /blog
-url: "https://dilinade.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+domain: dilina.life
+baseurl: "" # custom domain uses root path
+url: "https://dilina.life" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "dilinade/personal-web"
 github_username: dilinade
 
