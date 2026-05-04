@@ -5,7 +5,7 @@ author_profile: true
 classes: wide
 ---
 
-I am a PhD student in Informatics at the <a href="https://www.ed.ac.uk/informatics" target="_blank">University of Edinburgh</a>, where I work with <a href="https://homepages.inf.ed.ac.uk/bgrot/" target="_blank">Prof. Boris Grot</a> in the <a href="https://easelab.inf.ed.ac.uk/" target="_blank">EASE Lab</a>. My research focuses on cloud computing and computer systems, with particular emphasis on hybrid systems that integrate serverless and traditional cloud infrastructure.
+I am a PhD student in Informatics at the <a href="https://www.ed.ac.uk/informatics" target="_blank">University of Edinburgh</a>, where I work with <a href="https://homepages.inf.ed.ac.uk/bgrot/" target="_blank">Prof. Boris Grot</a> in the <a href="https://easelab.inf.ed.ac.uk/" target="_blank">EASE Lab</a>. My research focuses on cloud computing and computer systems, especially hybrid execution across VMs, containers, and FaaS to improve latency, reduce cost, and keep infrastructure highly utilized.
 
 Previously, I worked at the <a href="https://www.ntu.edu.sg/hesl" target="_blank">High Performance Embedded Systems Lab (HESL)</a> at <a href="https://www.ntu.edu.sg/" target="_blank">Nanyang Technological University</a>, where I worked with <a href="https://www.researchgate.net/scientific-contributions/Deshya-Wijesundera-2109327417" target="_blank">Dr. Deshya Wijesundera</a> and <a href="https://www.ntu.edu.sg/computing/archives/about-us/past-chairs/prof-thambipillai-srikanthan" target="_blank">Prof. Thambipillai Srikanthan</a> to develop a memory profiling tool for hardware-software co-design.
 
@@ -18,7 +18,7 @@ I enjoy building practical systems and production software across research and i
         <strong>PhD in Informatics:</strong> 2022–Present
         <ul>
             <li>University of Edinburgh, Edinburgh, UK</li>
-            <li>Research Focus: Cloud computing and hybrid systems combining serverless and VM-based infrastructure</li>
+            <li>Research Focus: Cloud computing and hybrid systems across VMs, containers, and serverless functions, designed for strong latency, cost, and utilization trade-offs</li>
             <li>Advisor: <a href="https://homepages.inf.ed.ac.uk/bgrot/" target="_blank">Prof. Boris Grot</a></li>
         </ul>
     </div>

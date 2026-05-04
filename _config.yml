@@ -38,7 +38,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 author:
   # name             : "Dilina Dehigama"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "PhD Student in Informatics working on hybrid cloud systems and serverless computing."
+  bio              : "PhD Student in Informatics working on hybrid cloud systems across VMs, containers, and FaaS for lower latency, better cost-efficiency, and high utilization."
   location         : "Edinburgh, UK"
   employer         : "University of Edinburgh"
   email            : "nisalya@gmail.com"

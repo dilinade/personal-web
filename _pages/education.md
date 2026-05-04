@@ -13,7 +13,7 @@ classes: wide
 **PhD in Informatics**, *2022-Present*  
 University of Edinburgh, *Edinburgh, UK*  
 Advisor: [Prof. Boris Grot](https://homepages.inf.ed.ac.uk/bgrot/).  
-Research focus: Hybrid systems integrating serverless and traditional cloud computing.
+Research focus: Hybrid cloud architectures that combine VMs, containers, and FaaS while balancing tail-latency, cost efficiency, and resource utilization.
 
 **BSc (Hons) in Computer Science, First Class (GPA: 3.93/4.00)**, *2017-2021*  
 University of Colombo School of Computing, *Colombo, Sri Lanka*  

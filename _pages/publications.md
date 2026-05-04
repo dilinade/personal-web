@@ -17,7 +17,7 @@ classes: wide
     <span class="accepted-note">Accepted at <a href="https://acmsocc.org/2026/" target="_blank">ACM Symposium on Cloud Computing (SoCC), 2026</a></span></p>
     <div class="button-group">
       <a href="#" class="btn btn--primary btn-disabled" aria-disabled="true">Coming soon!</a>
-      <button type="button" class="btn btn--primary bibtex-copy" data-bibtex-target="bibtex-spandana">Copy BibTeX</button>
+      <button type="button" class="btn btn--primary bibtex-copy" data-bibtex-target="bibtex-spandana">BibTeX</button>
     </div>
   </div>
 
@@ -44,7 +44,7 @@ classes: wide
 
 <pre id="bibtex-spandana" class="bibtex-source" hidden>@inproceedings{dehigama2026spandana,
   title     = {Spandana: Reconciling Strict SLOs with Low Cost under Fine-Grained Load Fluctuations},
-  author    = {Dehigama, Dilina and Jesalpura, Smit and Xu, Zhihao and Nemeth, Marcell and Kogias, Marios and Grot, Boris},
+  author    = {Dehigama, Dilina and Jesalpura, Shyam and Xu, Zeyu and Nemeth, Marton and Kogias, Marios and Grot, Boris},
   booktitle = {Proceedings of the ACM Symposium on Cloud Computing (SoCC)},
   year      = {2026},
   note      = {Accepted}
