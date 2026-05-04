@@ -42,22 +42,6 @@ classes: wide
   </div>
 </div>
 
-### Earlier Publication
-{: style="font-size:.85em; color: #7a8288;"}
----
-
-<div class="section">
-  <div class="section-item">
-    <p class="p-no-margin-bottom"><strong>Incorporating Compiler Optimization in Software Estimation for FPGA-based Embedded Processors</strong><br>
-    D. Wijesundera, T. Perera, D. Dehigama, and T. Srikanthan<br>
-    <em>ICICT, 2021</em></p>
-    <div class="button-group">
-      <a href="#" class="btn btn--primary btn-disabled" aria-disabled="true">PDF (Add URL)</a>
-      <button type="button" class="btn btn--primary bibtex-copy" data-bibtex-target="bibtex-icict">Copy BibTeX</button>
-    </div>
-  </div>
-</div>
-
 <pre id="bibtex-spandana" class="bibtex-source" hidden>@inproceedings{dehigama2026spandana,
   title     = {Spandana: Reconciling Strict SLOs with Low Cost under Fine-Grained Load Fluctuations},
   author    = {Dehigama, Dilina and Jesalpura, Smit and Xu, Zhihao and Nemeth, Marcell and Kogias, Marios and Grot, Boris},
@@ -78,14 +62,6 @@ classes: wide
   author    = {Dehigama, Dilina and Jesalpura, Smit and Katsarakis, Alexandros and Kogias, Marios and Kumar, Ravi and Grot, Boris},
   booktitle = {2nd Workshop on SErverless Systems, Applications and MEthodologies (SESAME) at EuroSys},
   year      = {2024}
-}</pre>
-
-<pre id="bibtex-icict" class="bibtex-source" hidden>@inproceedings{wijesundera2021compiler,
-  title     = {Incorporating Compiler Optimization in Software Estimation for FPGA-based Embedded Processors},
-  author    = {Wijesundera, D. and Perera, T. and Dehigama, D. and Srikanthan, T.},
-  booktitle = {2021 4th International Conference on Information and Computer Technologies (ICICT)},
-  pages     = {137--141},
-  year      = {2021}
 }</pre>
 
 <script>

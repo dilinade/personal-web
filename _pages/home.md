@@ -5,9 +5,9 @@ author_profile: true
 classes: wide
 ---
 
-I am a PhD student in Informatics at the <a href="https://www.ed.ac.uk/informatics" target="_blank">University of Edinburgh</a>, researching cloud computing and computer systems with a focus on hybrid systems that integrate serverless and traditional cloud infrastructure.
+I am a PhD student in Informatics at the <a href="https://www.ed.ac.uk/informatics" target="_blank">University of Edinburgh</a>, where I work with <a href="https://homepages.inf.ed.ac.uk/bgrot/" target="_blank">Prof. Boris Grot</a> in the <a href="https://easelab.inf.ed.ac.uk/" target="_blank">EASE Lab</a>. My research focuses on cloud computing and computer systems, with particular emphasis on hybrid systems that integrate serverless and traditional cloud infrastructure.
 
-My recent work explores cost-efficient and performance-aware hybrid architectures for dynamic workloads, including systems such as Spandana and Flare.
+Previously, I worked at the <a href="https://www.ntu.edu.sg/hesl" target="_blank">High Performance Embedded Systems Lab (HESL)</a> at <a href="https://www.ntu.edu.sg/" target="_blank">Nanyang Technological University</a>, where I worked with <a href="https://www.researchgate.net/scientific-contributions/Deshya-Wijesundera-2109327417" target="_blank">Dr. Deshya Wijesundera</a> and <a href="https://www.ntu.edu.sg/computing/archives/about-us/past-chairs/prof-thambipillai-srikanthan" target="_blank">Prof. Thambipillai Srikanthan</a> to develop a memory profiling tool for hardware-software co-design.
 
 I enjoy building practical systems and production software across research and industry, and I am always open to collaborations and conversations.
 
@@ -23,25 +23,16 @@ I enjoy building practical systems and production software across research and i
         </ul>
     </div>
     <div class="section-item">
-        <strong>BSc (Hons) in Computer Science [First Class]:</strong> 2017–2021
+        <strong>BSc (Hons) in Computer Science [First Class, GPA: 3.93/4.00]:</strong> 2017–2021
         <ul>
             <li>University of Colombo School of Computing (UCSC), Colombo, Sri Lanka</li>
-            <li>Batch Rank: 02 | GPA: 3.93/4.00 | Top 1.25%</li>
-            <li>Best Final Year Research Project in Computer Science</li>
+            <li>Best Final Year Research Project in Computer Science (Supervisors: Dr. Chamath Keppitiyagama and Dr. Deshya Wijesundera)</li>
         </ul>
     </div>
     <div class="section-item">
         <strong>Professional Graduate Diploma (L6):</strong> 2016–2017
         <ul>
-            <li>British Computer Society, Sri Lanka Regional Office</li>
             <li>MBCS | Member of British Computer Society</li>
-        </ul>
-    </div>
-    <div class="section-item">
-        <strong>G.C.E. Advanced Level:</strong> 2007–2015
-        <ul>
-            <li>Kingswood College, Kandy, Sri Lanka</li>
-            <li>National Rank: 02 | District Rank: 01</li>
         </ul>
     </div>
 </div>
@@ -76,15 +67,6 @@ I enjoy building practical systems and production software across research and i
         <div class="button-group">
             <a href="#" class="btn btn--primary btn-disabled" aria-disabled="true">PDF (Add URL)</a>
             <button type="button" class="btn btn--primary bibtex-copy" data-bibtex-target="bibtex-sesame-home">Copy BibTeX</button>
-        </div>
-    </div>
-    <div class="section-item">
-        <p class="p-no-margin-bottom"><strong>Incorporating Compiler Optimization in Software Estimation for FPGA-based Embedded Processors</strong><br>
-        D. Wijesundera, T. Perera, D. Dehigama, and T. Srikanthan.<br>
-        <em>ICICT, 2021</em></p>
-        <div class="button-group">
-            <a href="#" class="btn btn--primary btn-disabled" aria-disabled="true">PDF (Add URL)</a>
-            <button type="button" class="btn btn--primary bibtex-copy" data-bibtex-target="bibtex-icict-home">Copy BibTeX</button>
         </div>
     </div>
 </div>
@@ -158,14 +140,6 @@ I enjoy building practical systems and production software across research and i
   author    = {Dehigama, Dilina and Jesalpura, Smit and Katsarakis, Alexandros and Kogias, Marios and Kumar, Ravi and Grot, Boris},
   booktitle = {2nd Workshop on SErverless Systems, Applications and MEthodologies (SESAME) at EuroSys},
   year      = {2024}
-}</pre>
-
-<pre id="bibtex-icict-home" hidden>@inproceedings{wijesundera2021compiler,
-  title     = {Incorporating Compiler Optimization in Software Estimation for FPGA-based Embedded Processors},
-  author    = {Wijesundera, D. and Perera, T. and Dehigama, D. and Srikanthan, T.},
-  booktitle = {2021 4th International Conference on Information and Computer Technologies (ICICT)},
-  pages     = {137--141},
-  year      = {2021}
 }</pre>
 
 <script>

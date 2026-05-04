@@ -90,12 +90,19 @@ html {
 }
 
 .btn {
-    min-width: 9em;
-    border: 1px solid #4e91a5;
+    min-width: 7.2em;
+    padding: 0.32em 0.7em;
+    font-size: 0.8em;
+    line-height: 1.2;
+    border: 1px solid $link-color;
+    color: $link-color;
+    background: transparent;
 }
 
 .btn:hover {
-    border: 1px solid #235e70;
+    border: 1px solid $link-color;
+    color: $link-color;
+    background: rgba($link-color, 0.08);
 }
 
 .video-container {
