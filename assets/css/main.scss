@@ -105,6 +105,20 @@ html {
     background: rgba($link-color, 0.08);
 }
 
+.badge-new {
+    display: inline-block;
+    margin-left: 0.45em;
+    padding: 0.12em 0.48em;
+    border-radius: 999px;
+    border: 1px solid #c41f2f;
+    color: #c41f2f;
+    font-size: 0.72em;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    vertical-align: baseline;
+}
+
 .video-container {
   margin-top: 15px;
   width: 560px;

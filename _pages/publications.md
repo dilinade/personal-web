@@ -14,7 +14,7 @@ classes: wide
   <div class="section-item">
     <p class="p-no-margin-bottom"><strong>Spandana: Reconciling Strict SLOs with Low Cost under Fine-Grained Load Fluctuations</strong><br>
     D. Dehigama, S. Jesalpura, Z. Xu, M. Nemeth, M. Kogias, and B. Grot<br>
-    <em>SoCC, 2026 (Under Review)</em></p>
+    <em>Accepted at SoCC, 2026</em> <span class="badge-new">New</span></p>
     <div class="button-group">
       <a href="#" class="btn btn--primary btn-disabled" aria-disabled="true">PDF (Add URL)</a>
       <button type="button" class="btn btn--primary bibtex-copy" data-bibtex-target="bibtex-spandana">Copy BibTeX</button>
@@ -47,7 +47,7 @@ classes: wide
   author    = {Dehigama, Dilina and Jesalpura, Smit and Xu, Zhihao and Nemeth, Marcell and Kogias, Marios and Grot, Boris},
   booktitle = {Proceedings of the ACM Symposium on Cloud Computing (SoCC)},
   year      = {2026},
-  note      = {Under review}
+  note      = {Accepted}
 }</pre>
 
 <pre id="bibtex-hotinfra" class="bibtex-source" hidden>@inproceedings{dehigama2024harmonizing,
