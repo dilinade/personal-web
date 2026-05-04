@@ -127,6 +127,13 @@ html {
     font-weight: 600;
 }
 
+.accepted-note a,
+.accepted-note a:hover,
+.accepted-note a:focus {
+    text-decoration: none;
+    color: inherit;
+}
+
 .video-container {
   margin-top: 15px;
   width: 560px;
