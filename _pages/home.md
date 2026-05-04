@@ -9,7 +9,7 @@ I am a PhD student in Informatics at the <a href="https://www.ed.ac.uk/informati
 
 Previously, I worked at the <a href="https://www.ntu.edu.sg/hesl" target="_blank">High Performance Embedded Systems Lab (HESL)</a> at <a href="https://www.ntu.edu.sg/" target="_blank">Nanyang Technological University</a>, where I worked with <a href="https://www.researchgate.net/scientific-contributions/Deshya-Wijesundera-2109327417" target="_blank">Dr. Deshya Wijesundera</a> and <a href="https://www.ntu.edu.sg/computing/archives/about-us/past-chairs/prof-thambipillai-srikanthan" target="_blank">Prof. Thambipillai Srikanthan</a> to develop a memory profiling tool for hardware-software co-design.
 
-I enjoy building practical systems and production software across research and industry, and I am always open to collaborations and conversations.
+I enjoy building practical systems and production software across research and industry, and I am always open to collaborations and conversations. If you would like to chat, shoot me an email at dilina.dehigama (at) ed.ac.uk.
 
 ### Education {#education}
 
@@ -101,26 +101,26 @@ I enjoy building practical systems and production software across research and i
 
 <hr>
 
-### Services {#services}
+### Teaching & Mentorship {#teaching-mentorship}
 
 <div class="section">
     <div class="section-item">
-        <strong>Teaching & Mentorship</strong>
+        <strong>Teaching Assistant / Tutor / Marker</strong>
         <ul>
-            <li>Teaching Assistant, Introduction to Computer Systems (Inf2C), University of Edinburgh - <em>Oct 2023 to Oct 2025</em></li>
-            <li>Research Intern Supervision, School of Informatics, University of Edinburgh - <em>Jan 2022 to Present</em></li>
-            <li>Zeyu Xu: Evaluated hybrid systems that use burstable and on-demand VMs to manage load fluctuations.</li>
-            <li>Mária Ďuračková: Optimized the STeLLAR serverless tail-latency analyzer platform.</li>
-            <li>Arnav Bhargava and Taymaz Khormali: Ported microservice benchmark suites to FaaS platforms.</li>
+            <li>Introduction to Computer Systems (Inf2C), University of Edinburgh - <em>Oct 2023 to Oct 2025</em> (Teaching Assistant, Tutor, Marker)</li>
             <li>Part-time Lecturer, BCS Level 05 Diploma in IT (Web Application Development), LiveCollege Sri Lanka - <em>Oct 2021 to Apr 2022</em></li>
         </ul>
     </div>
     <div class="section-item">
-        <strong>Leadership & Volunteering</strong>
+        <strong>Research Intern Supervision</strong>
         <ul>
-            <li>Artifact Evaluator: ISCA '25 and HPCA '24</li>
-            <li>Vice President, People Management: AIESEC in Sri Lanka (Colombo)</li>
-            <li>Vice President: IEEE Student Branch of UCSC</li>
+            <li>School of Informatics, University of Edinburgh - <em>Jan 2022 to Present</em>
+                <ul>
+                    <li>Zeyu Xu: Evaluated hybrid systems that use burstable and on-demand VMs to manage load fluctuations.</li>
+                    <li>Mária Ďuračková: Optimized the STeLLAR serverless tail-latency analyzer platform.</li>
+                    <li>Arnav Bhargava and Taymaz Khormali: Ported microservice benchmark suites to FaaS platforms.</li>
+                </ul>
+            </li>
         </ul>
   </div>
 </div>
