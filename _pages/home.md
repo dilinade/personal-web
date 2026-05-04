@@ -125,6 +125,37 @@ I enjoy building practical systems and production software across research and i
   </div>
 </div>
 
+<hr>
+
+### Technical Skills {#technical-skills}
+
+<div class="section">
+    <div class="section-item">
+        <strong>Cloud & Systems</strong>
+        <ul>
+            <li>AWS (Lambda, EC2, EKS, S3, DynamoDB), Kubernetes, Docker, Linux</li>
+        </ul>
+    </div>
+    <div class="section-item">
+        <strong>Programming & Backend</strong>
+        <ul>
+            <li>Go, Python, Node.js, TypeScript, JavaScript, SQL, Bash, GraphQL, REST, gRPC</li>
+        </ul>
+    </div>
+    <div class="section-item">
+        <strong>Frontend & Mobile</strong>
+        <ul>
+            <li>React, React Native, Angular, Flutter</li>
+        </ul>
+    </div>
+    <div class="section-item">
+        <strong>Data, Observability & Tooling</strong>
+        <ul>
+            <li>PostgreSQL, MongoDB, MySQL, Firebase, Prometheus, Grafana, Git, GitHub Actions</li>
+        </ul>
+    </div>
+</div>
+
 <pre id="bibtex-spandana-home" hidden>@inproceedings{dehigama2026spandana,
   title     = {Spandana: Reconciling Strict SLOs with Low Cost under Fine-Grained Load Fluctuations},
   author    = {Dehigama, Dilina and Jesalpura, Smit and Xu, Zhihao and Nemeth, Marcell and Kogias, Marios and Grot, Boris},
