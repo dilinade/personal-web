@@ -1,5 +1,5 @@
 This is the repository for my personal website. 
-Visit it at [https://nime-sha256.info](https://nime-sha256.info)
+Visit it at [https://dilina.life](https://dilina.life)
 
 [![Jekyll](https://img.shields.io/gem/v/jekyll?label=jekyll)](https://jekyllrb.com/)
 [![Ruby gem](https://img.shields.io/gem/v/minimal-mistakes-jekyll?label=minimal%20mistakes)](https://rubygems.org/gems/minimal-mistakes-jekyll)

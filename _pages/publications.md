@@ -14,7 +14,7 @@ classes: wide
   <div class="section-item">
     <p class="p-no-margin-bottom"><strong><span class="new-prefix">(New)</span> Spandana: Reconciling Strict SLOs with Low Cost under Fine-Grained Load Fluctuations</strong><br>
     <u>D. Dehigama</u>, S. Jesalpura, Z. Xu, M. Nemeth, M. Kogias, and B. Grot<br>
-    <span class="accepted-note">Accepted at ACM Symposium on Cloud Computing (SoCC), 2026</span></p>
+    <span class="accepted-note">Accepted at <a href="https://acmsocc.org/2026/" target="_blank">ACM Symposium on Cloud Computing (SoCC), 2026</a></span></p>
     <div class="button-group">
       <a href="#" class="btn btn--primary btn-disabled" aria-disabled="true">PDF (Add URL)</a>
       <button type="button" class="btn btn--primary bibtex-copy" data-bibtex-target="bibtex-spandana">Copy BibTeX</button>
