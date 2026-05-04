@@ -194,7 +194,7 @@ I enjoy building practical systems and production software across research and i
 
 <pre id="bibtex-spandana-home" hidden>@inproceedings{dehigama2026spandana,
   title     = {Spandana: Reconciling Strict SLOs with Low Cost under Fine-Grained Load Fluctuations},
-  author    = {Dehigama, Dilina and Jesalpura, Smit and Xu, Zhihao and Nemeth, Marcell and Kogias, Marios and Grot, Boris},
+  author    = {Dehigama, Dilina and Jesalpura, Shyam and Xu, Zeyu and Nemeth, Marton and Kogias, Marios and Grot, Boris},
   booktitle = {Proceedings of the ACM Symposium on Cloud Computing (SoCC)},
   year      = {2026},
   note      = {Accepted}
