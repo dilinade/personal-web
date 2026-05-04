@@ -13,7 +13,7 @@ classes: wide
 <div class="section">
   <div class="section-item">
     <p class="p-no-margin-bottom"><strong><span class="new-prefix">(New)</span> Spandana: Reconciling Strict SLOs with Low Cost under Fine-Grained Load Fluctuations</strong><br>
-    D. Dehigama, S. Jesalpura, Z. Xu, M. Nemeth, M. Kogias, and B. Grot<br>
+    <u>D. Dehigama</u>, S. Jesalpura, Z. Xu, M. Nemeth, M. Kogias, and B. Grot<br>
     <span class="accepted-note">Accepted at ACM Symposium on Cloud Computing (SoCC), 2026</span></p>
     <div class="button-group">
       <a href="#" class="btn btn--primary btn-disabled" aria-disabled="true">PDF (Add URL)</a>
@@ -23,7 +23,7 @@ classes: wide
 
   <div class="section-item">
     <p class="p-no-margin-bottom"><strong>Harmonizing Diverse Compute Resources for Efficiency</strong><br>
-    D. Dehigama, S. Jesalpura, M. Kogias, and B. Grot<br>
+    <u>D. Dehigama</u>, S. Jesalpura, M. Kogias, and B. Grot<br>
     <em><a href="https://hotinfra24.github.io/" target="_blank">HotInfra Workshop at SOSP, 2024 (Austin, Texas)</a></em></p>
     <div class="button-group">
       <a href="https://www.research.ed.ac.uk/en/publications/harmonizing-diverse-compute-resources-for-efficiency/" target="_blank" class="btn btn--primary">PDF</a>
@@ -33,7 +33,7 @@ classes: wide
 
   <div class="section-item">
     <p class="p-no-margin-bottom"><strong>Composing Microservices and Serverless for Load Resilience</strong><br>
-    D. Dehigama, S. Jesalpura, A. Katsarakis, M. Kogias, R. Kumar, and B. Grot<br>
+    <u>D. Dehigama</u>, S. Jesalpura, A. Katsarakis, M. Kogias, R. Kumar, and B. Grot<br>
     <em><a href="https://sesame2024.github.io/" target="_blank">SESAME at EuroSys '24 (Athens, Greece)</a></em></p>
     <div class="button-group">
       <a href="https://www.research.ed.ac.uk/en/publications/composing-microservices-and-serverless-for-load-resilience/" target="_blank" class="btn btn--primary">PDF</a>

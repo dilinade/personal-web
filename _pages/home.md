@@ -9,7 +9,7 @@ I am a PhD student in Informatics at the <a href="https://www.ed.ac.uk/informati
 
 Previously, I worked at the <a href="https://www.ntu.edu.sg/hesl" target="_blank">High Performance Embedded Systems Lab (HESL)</a> at <a href="https://www.ntu.edu.sg/" target="_blank">Nanyang Technological University</a>, where I worked with <a href="https://www.researchgate.net/scientific-contributions/Deshya-Wijesundera-2109327417" target="_blank">Dr. Deshya Wijesundera</a> and <a href="https://www.ntu.edu.sg/computing/archives/about-us/past-chairs/prof-thambipillai-srikanthan" target="_blank">Prof. Thambipillai Srikanthan</a> to develop a memory profiling tool for hardware-software co-design.
 
-I enjoy building practical systems and production software across research and industry, and I am always open to collaborations and conversations. If you would like to chat, shoot me an email at dilina.dehigama (at) ed.ac.uk.
+I enjoy building practical systems and production software across research and industry, and I am always open to collaborations and conversations. Feel free to shoot me an email at <i>dilina.dehigama (at) ed.ac.uk</i>
 
 ### Education {#education}
 
@@ -45,7 +45,7 @@ I enjoy building practical systems and production software across research and i
 <div class="section">
     <div class="section-item">
         <p class="p-no-margin-bottom"><strong><span class="new-prefix">(New)</span> Spandana: Reconciling Strict SLOs with Low Cost under Fine-Grained Load Fluctuations</strong><br>
-        D. Dehigama, S. Jesalpura, Z. Xu, M. Nemeth, M. Kogias, and B. Grot.<br>
+        <u>D. Dehigama</u>, S. Jesalpura, Z. Xu, M. Nemeth, M. Kogias, and B. Grot.<br>
         <span class="accepted-note">Accepted at ACM Symposium on Cloud Computing (SoCC), 2026</span></p>
         <div class="button-group">
             <a href="#" class="btn btn--primary btn-disabled" aria-disabled="true">PDF (Add URL)</a>
@@ -54,7 +54,7 @@ I enjoy building practical systems and production software across research and i
     </div>
     <div class="section-item">
         <p class="p-no-margin-bottom"><strong>Harmonizing Diverse Compute Resources for Efficiency</strong><br>
-        D. Dehigama, S. Jesalpura, M. Kogias, and B. Grot.<br>
+        <u>D. Dehigama</u>, S. Jesalpura, M. Kogias, and B. Grot.<br>
         <em><a href="https://hotinfra24.github.io/" target="_blank">HotInfra Workshop at SOSP, 2024 (Austin, Texas)</a></em></p>
         <div class="button-group">
             <a href="https://www.research.ed.ac.uk/en/publications/harmonizing-diverse-compute-resources-for-efficiency/" target="_blank" class="btn btn--primary">PDF</a>
@@ -63,7 +63,7 @@ I enjoy building practical systems and production software across research and i
     </div>
     <div class="section-item">
         <p class="p-no-margin-bottom"><strong>Composing Microservices and Serverless for Load Resilience</strong><br>
-        D. Dehigama, S. Jesalpura, A. Katsarakis, M. Kogias, R. Kumar, and B. Grot.<br>
+        <u>D. Dehigama</u>, S. Jesalpura, A. Katsarakis, M. Kogias, R. Kumar, and B. Grot.<br>
         <em><a href="https://sesame2024.github.io/" target="_blank">SESAME at EuroSys '24 (Athens, Greece)</a></em></p>
         <div class="button-group">
             <a href="https://www.research.ed.ac.uk/en/publications/composing-microservices-and-serverless-for-load-resilience/" target="_blank" class="btn btn--primary">PDF</a>
@@ -80,8 +80,7 @@ I enjoy building practical systems and production software across research and i
     <div class="section-item">
         <strong>University of Edinburgh Informatics PhD Scholarship (2022)</strong>
         <ul>
-            <li>Full scholarship covering PhD tuition fees and annual stipend support.</li>
-            <li>Total value of ~ £190,000.</li>
+            <li>Full scholarship covering PhD tuition fees and annual stipend support (total value of ~ £190,000).</li>
         </ul>
     </div>
     <div class="section-item">
@@ -101,13 +100,13 @@ I enjoy building practical systems and production software across research and i
 
 <hr>
 
-### Teaching & Mentorship {#teaching-mentorship}
+### Teaching, Mentorship & Service {#teaching-mentorship-service}
 
 <div class="section">
     <div class="section-item">
         <strong>Teaching Assistant / Tutor / Marker</strong>
         <ul>
-            <li>Introduction to Computer Systems (Inf2C), University of Edinburgh - <em>Oct 2023 to Oct 2025</em> (Teaching Assistant, Tutor, Marker)</li>
+            <li>Introduction to Computer Systems (Inf2C), University of Edinburgh - <em>Oct 2023 to Oct 2025</em></li>
         </ul>
     </div>
     <div class="section-item">
