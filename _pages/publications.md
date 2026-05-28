@@ -6,15 +6,14 @@ author_profile: true
 classes: wide
 ---
 
-### Conference and Workshop Papers
-{: style="font-size:.85em; color: #7a8288;"}
----
+### Publications
 
+#### Conference Publications
 <div class="section">
   <div class="section-item">
     <p class="p-no-margin-bottom"><strong><span class="new-prefix">(New)</span> Spandana: Reconciling Strict SLOs with Low Cost under Fine-Grained Load Fluctuations</strong><br>
     <u>D. Dehigama</u>, S. Jesalpura, Z. Xu, M. Nemeth, M. Kogias, and B. Grot<br>
-    <span class="accepted-note">Accepted at<a href="https://acmsocc.org/2026/" target="_blank">ACM Symposium on Cloud Computing (SoCC), 2026</a> (<span>To appear</span>)</span></p>
+    <span class="accepted-note">Accepted at <a href="https://acmsocc.org/2026/" target="_blank">ACM Symposium on Cloud Computing (SoCC), 2026</a> (<span>To appear</span>)</span></p>
     <div class="button-group">
       <a href="#" class="btn btn--primary btn-disabled" aria-disabled="true">Coming soon!</a>
       <button type="button" class="btn btn--primary bibtex-copy" data-bibtex-target="bibtex-spandana">Bibtex</button>
@@ -31,7 +30,10 @@ classes: wide
       <a href="https://arxiv.org/abs/2605.23707" target="_blank" class="btn btn--primary">Preprint</a>
     </div>
   </div>
+</div>
 
+#### Workshop Publications
+<div class="section">
   <div class="section-item">
     <p class="p-no-margin-bottom"><strong>Harmonizing Diverse Compute Resources for Efficiency</strong><br>
     <u>D. Dehigama</u>, S. Jesalpura, M. Kogias, and B. Grot<br>
