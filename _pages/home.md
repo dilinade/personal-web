@@ -46,7 +46,7 @@ I enjoy building practical systems and production software across research and i
     <div class="section-item">
         <p class="p-no-margin-bottom"><strong><span class="new-prefix">(New)</span> Spandana: Reconciling Strict SLOs with Low Cost under Fine-Grained Load Fluctuations</strong><br>
         <u>D. Dehigama</u>, S. Jesalpura, Z. Xu, M. Nemeth, M. Kogias, and B. Grot.<br>
-        <span class="accepted-note">Accepted at <a href="https://acmsocc.org/2026/" target="_blank">ACM Symposium on Cloud Computing (SoCC), 2026</a></span></p>
+        <span class="accepted-note">Accepted at<a href="https://acmsocc.org/2026/" target="_blank">ACM Symposium on Cloud Computing (SoCC), 2026</a> (<span>To appear</span>)</span></p>
         <div class="button-group">
             <a href="#" class="btn btn--primary btn-disabled" aria-disabled="true">Coming soon!</a>
             <button type="button" class="btn btn--primary bibtex-copy" data-bibtex-target="bibtex-spandana-home">Bibtex</button>
@@ -55,7 +55,7 @@ I enjoy building practical systems and production software across research and i
     <div class="section-item">
         <p class="p-no-margin-bottom"><strong>Flare: Leveraging Serverless Elasticity to Absorb Microservice Load Spikes</strong><br>
         <u>D. Dehigama</u>, S. Jesalpura, D. Schall, A. Katsarakis, M. Kogias, R. Kumar, and B. Grot.<br>
-        <em>In IEEE 19th International Conference on Cloud Computing (CLOUD), 2026.</em></p>
+        <em>In IEEE 19th International Conference on Cloud Computing (CLOUD), 2026 (To appear).</em></p>
         <div class="button-group">
             <a href="#" class="btn btn--primary btn-disabled" aria-disabled="true">Coming soon!</a>
             <button type="button" class="btn btn--primary bibtex-copy" data-bibtex-target="bibtex-flare-home">Bibtex</button>
