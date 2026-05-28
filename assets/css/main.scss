@@ -105,6 +105,20 @@ html {
     background: rgba($link-color, 0.08);
 }
 
+.btn--primary,
+.btn--primary:visited {
+    border: 1px solid $link-color;
+    color: $link-color;
+    background: transparent;
+}
+
+.btn--primary:hover,
+.btn--primary:focus {
+    border: 1px solid $link-color;
+    color: $link-color;
+    background: rgba($link-color, 0.08);
+}
+
 .badge-new {
     display: inline-block;
     margin-left: 0.45em;
