@@ -22,6 +22,17 @@ classes: wide
   </div>
 
   <div class="section-item">
+    <p class="p-no-margin-bottom"><strong>Flare: Leveraging Serverless Elasticity to Absorb Microservice Load Spikes</strong><br>
+    <u>D. Dehigama</u>, S. Jesalpura, D. Schall, A. Katsarakis, M. Kogias, R. Kumar, and B. Grot<br>
+    <em>In IEEE 19th International Conference on Cloud Computing (CLOUD), 2026.</em></p>
+    <div class="button-group">
+      <a href="#" class="btn btn--primary btn-disabled" aria-disabled="true">Coming soon!</a>
+      <button type="button" class="btn btn--primary bibtex-copy" data-bibtex-target="bibtex-flare">Bibtex</button>
+      <a href="https://arxiv.org/abs/2605.23707" target="_blank" class="btn btn--primary">Preprint</a>
+    </div>
+  </div>
+
+  <div class="section-item">
     <p class="p-no-margin-bottom"><strong>Harmonizing Diverse Compute Resources for Efficiency</strong><br>
     <u>D. Dehigama</u>, S. Jesalpura, M. Kogias, and B. Grot<br>
     <em><a href="https://hotinfra24.github.io/" target="_blank">HotInfra Workshop at SOSP, 2024 (Austin, Texas)</a></em></p>
@@ -48,6 +59,13 @@ classes: wide
   booktitle = {Proceedings of the ACM Symposium on Cloud Computing (SoCC)},
   year      = {2026},
   note      = {Accepted}
+}</pre>
+
+<pre id="bibtex-flare" class="bibtex-source" hidden>@inproceedings{dehigama2026flare,
+  title     = {Flare: Leveraging Serverless Elasticity to Absorb Microservice Load Spikes},
+  author    = {Dehigama, Dilina and Jesalpura, Shyam and Schall, Daniel and Katsarakis, Antonios and Kogias, Marios and Kumar, Rakesh and Grot, Boris},
+  booktitle = {Proceedings of the IEEE 19th International Conference on Cloud Computing (CLOUD)},
+  year      = {2026}
 }</pre>
 
 <pre id="bibtex-hotinfra" class="bibtex-source" hidden>@inproceedings{d494de1d227b46ed8429240dd9f9625b,
